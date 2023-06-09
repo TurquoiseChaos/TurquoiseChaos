@@ -1,16 +1,27 @@
 <!-- Woah, my about me! Written in HTML btw. -->
 
-<h2 align="center">Welcome to my profile! :wave:</h2>
-<p align="center">My name is TurquoiseChaos! I am a pretty decent programmer as I am learning new languages often.<br>I am mainly extrmely skilled in Lua as it was the first programming language I learned, <b>ever!</b><br>I mainly use <a href="http://code.visualstudio.com/download">Visual Studio Code</a> for my projects as I love the design and extentions it provides.</p>
-
-<h2 align="center">Current programming languages:</h2>
-
+<h1 align="center">Welcome to my profile! :wave:</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Lua-blue" alt="Lua">
-  <img src="https://img.shields.io/badge/Language-Python-navy" alt="Python">
-  <img src="https://img.shields.io/badge/Language-HTML-orange" alt="HTML">
-  <img src="https://img.shields.io/badge/Language-CSS-green" alt="CSS">
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="JavaScript">
+  <img src="https://media.tenor.com/gQV5VzHLWQIAAAAd/among-us-sus.gif" width="250px"; height="250px">
+</p>
+<p align="center">My name is TurquoiseChaos, a programmer who enjoys web development</p>
+
+* 🛠️ Into debugging and looking at code.
+* ☑️ Skilled in Lua and Python.
+* 🗄️ Great at organization of files and projects.
+* 😄 Willing to help anybody who needs help (Specifically in Lua).
+* 🖌️ Very skilled in UI Design.
+
+<h2>Programming Languages:</h2>
+<p>
+  <img src="https://img.shields.io/badge/Lua-black?logo=lua&logoColor=f5f5f5">
+  <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=f5f5f5">
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=f5f5f5">
+  <img src="https://img.shields.io/badge/C++-black?logo=c%2B%2B&logoColor=f5f5f5">
 </p>
 
-<p align="center">I'm fairly new to GitHub, so I am getting used to how the website works and stuff. I'm glad to be part of GitHub and can't wait to learn about what this website has to offer! :smile:</p>
+<h2>Web Frameworks:</h2>
+<p>
+  <img src="https://img.shields.io/badge/HTML-black?logo=HTML5&logoColor=f5f5f5">
+  <img src="https://img.shields.io/badge/CSS-black?logo=CSS3&logoColor=f5f5f5">
+</p>
